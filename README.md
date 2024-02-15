@@ -2,7 +2,7 @@
   
 
 <div align="center">
- <img src="https://cdn.discordapp.com/attachments/821278458696958014/1019267804807057459/sCaowip.gif" width="900"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div>  
   
 
